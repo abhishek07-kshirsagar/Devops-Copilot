@@ -1,4 +1,4 @@
-const N8N_WEBHOOK_URL = "https://abhishek111.app.n8n.cloud/webhook/da31b7b2-6485-4701-a983-5d24a3673b26";
+const N8N_WEBHOOK_URL = "https://abhishek111.app.n8n.cloud/webhook/b7fce85a-abca-459b-857f-9687c5ceb29d";
 
 // Add event listener for Enter key
 document.getElementById("userInput").addEventListener("keypress", function(e) {
